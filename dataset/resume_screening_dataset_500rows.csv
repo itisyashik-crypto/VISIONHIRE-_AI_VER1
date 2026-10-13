@@ -1,0 +1,501 @@
+Candidate_ID,Skills,Experience_Years,Projects_Count,Certifications_Count,Target_Role,Selected
+C0001,"Word,SQL,Photoshop",0,0,1,Data Analyst,0
+C0002,"Word,Git",0,1,1,Data Analyst,0
+C0003,"Python,TensorFlow,Deep Learning,Pandas,Machine Learning",3,5,3,ML Engineer,1
+C0004,"Manual Testing,SQL",2,0,1,Data Analyst,0
+C0005,"C++,Git,Networking",2,1,0,DevOps Engineer,0
+C0006,"Python,SQL,Statistics,Tableau,Excel",8,12,3,Data Analyst,1
+C0007,"NumPy,Machine Learning,Python,Pandas",3,10,2,ML Engineer,1
+C0008,"NumPy,Pandas,TensorFlow,Machine Learning,Deep Learning",1,5,1,ML Engineer,1
+C0009,"JavaScript,Bootstrap,HTML,React",8,8,4,Frontend Developer,1
+C0010,"Git,TensorFlow",2,3,1,ML Engineer,0
+C0011,"Git,HTML",0,0,0,Frontend Developer,0
+C0012,"Deep Learning,Pandas,Python,TensorFlow,Machine Learning,NumPy",5,10,1,ML Engineer,1
+C0013,"Excel,Statistics,Python,SQL,Tableau,Power BI",8,2,3,Data Analyst,1
+C0014,"AWS,Kubernetes,Docker,Terraform,Linux,Jenkins",1,11,3,DevOps Engineer,1
+C0015,"Networking,Word,C",1,0,0,Java Developer,0
+C0016,"Spring,Microservices,Maven,Hibernate,Java,SQL",7,5,5,Java Developer,1
+C0017,"NumPy,Machine Learning,Deep Learning,Pandas,TensorFlow",2,5,2,ML Engineer,1
+C0018,"Git,Word,Python,C",0,0,0,Data Analyst,0
+C0019,"Python,Tableau,SQL,Power BI,Excel",4,10,2,Data Analyst,1
+C0020,"Linux,Terraform,Docker,AWS",2,12,4,DevOps Engineer,1
+C0021,"TypeScript,React,Bootstrap,CSS,JavaScript",6,3,2,Frontend Developer,1
+C0022,"Photoshop,Excel,TensorFlow",2,3,0,ML Engineer,0
+C0023,"Python,Statistics,Tableau,Power BI,Excel,SQL",7,9,4,Data Analyst,1
+C0024,"TensorFlow,Deep Learning,Python,NumPy",5,9,3,ML Engineer,1
+C0025,"SQL,Maven,Spring,Java,Microservices,Hibernate",1,11,5,Java Developer,1
+C0026,"Python,Tableau,Power BI,Excel",3,2,5,Data Analyst,1
+C0027,"Tableau,Python,SQL,Power BI",2,11,2,Data Analyst,1
+C0028,"AWS,Linux,Kubernetes,Docker,Terraform,Jenkins",4,6,4,DevOps Engineer,1
+C0029,"Deep Learning,Machine Learning,Python,NumPy,TensorFlow",2,3,5,ML Engineer,1
+C0030,"Machine Learning,Python,TensorFlow,Deep Learning",5,4,4,ML Engineer,1
+C0031,"Terraform,Jenkins,AWS,Kubernetes,Docker,Linux",3,6,1,DevOps Engineer,1
+C0032,"Excel,Statistics,SQL,Tableau",6,5,3,Data Analyst,1
+C0033,"AWS,Linux,Kubernetes,Terraform",1,7,2,DevOps Engineer,1
+C0034,"Git,Excel,JavaScript",0,0,0,Frontend Developer,0
+C0035,"Pandas,NumPy,TensorFlow,Deep Learning,Python",1,6,3,ML Engineer,1
+C0036,"Statistics,SQL,Python,Tableau",7,11,2,Data Analyst,1
+C0037,"Deep Learning,Python,TensorFlow,Machine Learning",6,8,2,ML Engineer,1
+C0038,"C++,Excel,C,HTML",1,1,1,Frontend Developer,0
+C0039,"Word,C",1,3,1,Frontend Developer,0
+C0040,"HTML,Bootstrap,CSS,TypeScript,JavaScript",1,3,3,Frontend Developer,1
+C0041,"Python,NumPy,Deep Learning,TensorFlow,Machine Learning",7,11,5,ML Engineer,1
+C0042,"SQL,Excel,Python,Tableau,Statistics,Power BI",4,7,4,Data Analyst,1
+C0043,"Tableau,Excel,Python,Statistics,SQL",5,12,4,Data Analyst,1
+C0044,"Bootstrap,JavaScript,TypeScript,CSS,HTML",3,11,5,Frontend Developer,1
+C0045,"HTML,TypeScript,JavaScript,CSS",6,9,4,Frontend Developer,1
+C0046,"Maven,Spring,Java,SQL,Hibernate,Microservices",4,12,3,Java Developer,1
+C0047,"Python,NumPy,TensorFlow,Deep Learning",2,9,4,ML Engineer,1
+C0048,"Excel,HTML,Docker,Word",1,0,0,DevOps Engineer,0
+C0049,"Git,HTML,C,Word",0,3,0,Java Developer,0
+C0050,"SQL,Hibernate,Maven,Microservices,Spring,Java",3,9,4,Java Developer,1
+C0051,"HTML,Bootstrap,CSS,TypeScript,React,JavaScript",8,3,3,Frontend Developer,1
+C0052,"Git,C++,Photoshop",1,1,1,ML Engineer,0
+C0053,"Deep Learning,NumPy,Machine Learning,Pandas",8,8,1,ML Engineer,1
+C0054,"Pandas,Python,Deep Learning,TensorFlow,NumPy",6,6,4,ML Engineer,1
+C0055,"SQL,Microservices,Spring,Maven,Java,Hibernate",7,9,1,Java Developer,1
+C0056,"Excel,Photoshop,HTML,Java",0,3,0,Java Developer,0
+C0057,"Power BI,SQL,Python,Tableau",7,7,2,Data Analyst,1
+C0058,"Networking,Excel,Spring",0,3,0,Java Developer,0
+C0059,"Word,C++,C",0,1,0,DevOps Engineer,0
+C0060,"SQL,Power BI,Python,Excel",4,9,3,Data Analyst,1
+C0061,"C++,Photoshop,Networking,JavaScript",0,2,1,Frontend Developer,0
+C0062,"Java,SQL,Spring,Microservices",5,12,5,Java Developer,1
+C0063,"Python,Excel,Power BI,Tableau,SQL,Statistics",6,2,4,Data Analyst,1
+C0064,"Spring,HTML,Photoshop",3,1,1,Java Developer,0
+C0065,"Linux,Terraform,Jenkins,Kubernetes,Docker,AWS",4,3,3,DevOps Engineer,1
+C0066,"Java,Spring,Excel",2,0,1,Java Developer,0
+C0067,"Manual Testing,Networking",2,2,1,Frontend Developer,0
+C0068,"C++,Word",3,3,0,DevOps Engineer,0
+C0069,"Maven,Java,SQL,Spring,Microservices",7,5,3,Java Developer,1
+C0070,"Jenkins,Kubernetes,Linux,Terraform,Docker,AWS",8,6,3,DevOps Engineer,1
+C0071,"Word,Manual Testing,C++,Photoshop",1,1,1,Frontend Developer,0
+C0072,"Bootstrap,HTML,React,CSS,JavaScript,TypeScript",6,4,3,Frontend Developer,1
+C0073,"Excel,Python,Tableau,Statistics",5,4,4,Data Analyst,1
+C0074,"Excel,Power BI,Tableau,SQL,Statistics,Python",1,6,4,Data Analyst,1
+C0075,"Power BI,Python,Tableau,Statistics,Excel",5,3,2,Data Analyst,1
+C0076,"Tableau,Statistics,SQL,Excel,Power BI",8,9,3,Data Analyst,1
+C0077,"Jenkins,Terraform,AWS,Kubernetes,Linux",4,12,2,DevOps Engineer,1
+C0078,"JavaScript,TypeScript,React,CSS",1,8,4,Frontend Developer,1
+C0079,"Docker,Kubernetes,Jenkins,Linux",8,3,2,DevOps Engineer,1
+C0080,"Bootstrap,JavaScript,CSS,React,HTML,TypeScript",5,4,1,Frontend Developer,1
+C0081,"Python,SQL,Networking",3,0,1,Data Analyst,0
+C0082,"Bootstrap,TypeScript,CSS,JavaScript,React",1,8,3,Frontend Developer,1
+C0083,"Word,AWS",0,2,0,DevOps Engineer,0
+C0084,"Deep Learning,Machine Learning,TensorFlow,Pandas,NumPy,Python",2,9,3,ML Engineer,1
+C0085,"C++,Photoshop,Manual Testing,Excel",3,2,1,Java Developer,0
+C0086,"Manual Testing,Networking",2,0,1,DevOps Engineer,0
+C0087,"Terraform,Jenkins,Linux,Docker",1,5,5,DevOps Engineer,1
+C0088,"TypeScript,CSS,React,Bootstrap,JavaScript",3,6,4,Frontend Developer,1
+C0089,"Java,Word,Photoshop,Networking",0,3,0,Java Developer,0
+C0090,"Deep Learning,Python,TensorFlow,NumPy",5,10,3,ML Engineer,1
+C0091,"Spring,Maven,Microservices,SQL,Java",3,3,3,Java Developer,1
+C0092,"Networking,C,Spring,Git",3,1,1,Java Developer,0
+C0093,"Jenkins,Terraform,Linux,Docker,Kubernetes",4,5,5,DevOps Engineer,1
+C0094,"C,Manual Testing,HTML",3,3,0,Java Developer,0
+C0095,"SQL,Microservices,Hibernate,Java",8,3,5,Java Developer,1
+C0096,"Excel,Photoshop",0,3,1,Java Developer,0
+C0097,"TypeScript,React,HTML,CSS,JavaScript",6,12,4,Frontend Developer,1
+C0098,"Word,Networking",1,0,1,DevOps Engineer,0
+C0099,"Python,Power BI,SQL,Excel,Tableau,Statistics",1,7,1,Data Analyst,1
+C0100,"JavaScript,TypeScript,CSS,HTML,React",3,4,1,Frontend Developer,1
+C0101,"Terraform,Docker,Linux,Kubernetes,AWS,Jenkins",8,12,3,DevOps Engineer,1
+C0102,"HTML,Networking",1,0,1,Java Developer,0
+C0103,"TypeScript,CSS,HTML,JavaScript,Bootstrap",4,8,4,Frontend Developer,1
+C0104,"Manual Testing,Python,Networking,Git",0,3,1,Data Analyst,0
+C0105,"Statistics,Python,Power BI,SQL,Tableau,Excel",4,12,2,Data Analyst,1
+C0106,"Docker,Photoshop,C++,C",2,3,0,DevOps Engineer,0
+C0107,"AWS,Kubernetes,Jenkins,Linux",7,4,2,DevOps Engineer,1
+C0108,"Pandas,NumPy,Machine Learning,Python,TensorFlow",8,6,3,ML Engineer,1
+C0109,"SQL,Statistics,Power BI,Excel",6,3,4,Data Analyst,1
+C0110,"HTML,Manual Testing",2,3,1,Data Analyst,0
+C0111,"Python,Tableau,Excel,Power BI,Statistics",2,12,4,Data Analyst,1
+C0112,"JavaScript,React,Bootstrap,TypeScript",8,3,1,Frontend Developer,1
+C0113,"Deep Learning,NumPy,Machine Learning,Pandas",7,11,2,ML Engineer,1
+C0114,"SQL,Maven,Hibernate,Java,Spring",4,9,4,Java Developer,1
+C0115,"NumPy,Machine Learning,Pandas,Python",7,6,2,ML Engineer,1
+C0116,"Python,SQL,Statistics,Power BI,Tableau",4,4,5,Data Analyst,1
+C0117,"Word,Python,TensorFlow,Git",2,1,0,ML Engineer,0
+C0118,"JavaScript,Bootstrap,HTML,React",2,12,1,Frontend Developer,1
+C0119,"Python,Manual Testing",0,1,1,ML Engineer,0
+C0120,"Git,C++,Python",3,3,1,Data Analyst,0
+C0121,"Jenkins,Docker,AWS,Kubernetes,Terraform",8,12,1,DevOps Engineer,1
+C0122,"Power BI,Python,Statistics,Excel,SQL",2,3,3,Data Analyst,1
+C0123,"Networking,AWS",2,3,1,DevOps Engineer,0
+C0124,"Java,Microservices,Spring,Maven,Hibernate",4,8,3,Java Developer,1
+C0125,"Java,Hibernate,Maven,Spring,SQL,Microservices",3,12,4,Java Developer,1
+C0126,"C++,Excel",0,2,0,Data Analyst,0
+C0127,"Git,Manual Testing,C++,Excel",2,3,0,DevOps Engineer,0
+C0128,"React,Bootstrap,JavaScript,TypeScript,CSS",4,3,3,Frontend Developer,1
+C0129,"Jenkins,Docker,Linux,Kubernetes,AWS",5,2,2,DevOps Engineer,1
+C0130,"HTML,TypeScript,React,CSS,Bootstrap",7,3,2,Frontend Developer,1
+C0131,"Word,Excel,Python,HTML",2,1,1,Data Analyst,0
+C0132,"Bootstrap,React,TypeScript,CSS,HTML,JavaScript",2,6,4,Frontend Developer,1
+C0133,"Maven,Hibernate,Spring,SQL,Java",6,8,1,Java Developer,1
+C0134,"CSS,Bootstrap,HTML,React,TypeScript,JavaScript",1,2,2,Frontend Developer,1
+C0135,"HTML,TypeScript,Bootstrap,React",1,9,4,Frontend Developer,1
+C0136,"Word,Git,Python,Manual Testing",0,3,0,ML Engineer,0
+C0137,"Manual Testing,Java",3,3,1,Java Developer,0
+C0138,"Manual Testing,Photoshop",3,2,0,Frontend Developer,0
+C0139,"Maven,SQL,Microservices,Hibernate",2,8,3,Java Developer,1
+C0140,"C++,Git",0,1,1,Frontend Developer,0
+C0141,"JavaScript,TypeScript,React,CSS,Bootstrap,HTML",3,11,2,Frontend Developer,1
+C0142,"HTML,SQL,Python,Manual Testing",2,1,1,Data Analyst,0
+C0143,"Excel,Statistics,Python,SQL,Power BI,Tableau",8,9,1,Data Analyst,1
+C0144,"Python,Statistics,Power BI,SQL,Tableau",8,11,2,Data Analyst,1
+C0145,"JavaScript,React,CSS,Bootstrap,TypeScript,HTML",3,2,2,Frontend Developer,1
+C0146,"SQL,Microservices,Spring,Maven,Hibernate,Java",7,8,3,Java Developer,1
+C0147,"Docker,Manual Testing,C++,AWS",0,3,1,DevOps Engineer,0
+C0148,"Bootstrap,JavaScript,HTML,React,CSS,TypeScript",5,12,4,Frontend Developer,1
+C0149,"Machine Learning,Pandas,Deep Learning,NumPy",6,4,5,ML Engineer,1
+C0150,"Tableau,Excel,Python,SQL,Statistics",3,5,3,Data Analyst,1
+C0151,"Photoshop,C++",2,0,0,Java Developer,0
+C0152,"JavaScript,Bootstrap,CSS,React,HTML,TypeScript",3,9,1,Frontend Developer,1
+C0153,"Spring,Maven,Hibernate,SQL,Microservices,Java",4,6,4,Java Developer,1
+C0154,"Deep Learning,NumPy,Machine Learning,TensorFlow,Pandas,Python",4,11,2,ML Engineer,1
+C0155,"Manual Testing,Git,C++",0,2,0,Frontend Developer,0
+C0156,"Photoshop,Excel,C++,Word",3,2,0,ML Engineer,0
+C0157,"Manual Testing,Word,Excel,C++",2,1,0,Java Developer,0
+C0158,"TypeScript,HTML,JavaScript,React,Bootstrap,CSS",8,4,4,Frontend Developer,1
+C0159,"Java,Hibernate,Spring,Microservices",7,3,3,Java Developer,1
+C0160,"Word,Excel",3,0,0,ML Engineer,0
+C0161,"Microservices,SQL,Spring,Hibernate",3,6,4,Java Developer,1
+C0162,"Tableau,Power BI,SQL,Excel",2,10,3,Data Analyst,1
+C0163,"Tableau,Statistics,Python,SQL,Excel,Power BI",7,7,3,Data Analyst,1
+C0164,"Excel,SQL,Python,Statistics",6,4,1,Data Analyst,1
+C0165,"JavaScript,CSS,Bootstrap,HTML,React,TypeScript",2,9,1,Frontend Developer,1
+C0166,"C,Manual Testing",2,3,1,Frontend Developer,0
+C0167,"Word,Networking,Manual Testing,C",2,2,0,Frontend Developer,0
+C0168,"TypeScript,CSS,Bootstrap,JavaScript,React",8,9,3,Frontend Developer,1
+C0169,"Excel,C++",3,1,1,DevOps Engineer,0
+C0170,"JavaScript,Networking,React",3,3,0,Frontend Developer,0
+C0171,"Microservices,Hibernate,Maven,Spring",1,3,4,Java Developer,1
+C0172,"TypeScript,JavaScript,React,CSS,Bootstrap,HTML",3,3,2,Frontend Developer,1
+C0173,"React,Bootstrap,JavaScript,HTML,CSS,TypeScript",6,9,1,Frontend Developer,1
+C0174,"Excel,Manual Testing,Networking",1,0,0,DevOps Engineer,0
+C0175,"Pandas,Python,Machine Learning,TensorFlow,Deep Learning",4,11,3,ML Engineer,1
+C0176,"C++,HTML",1,3,0,Java Developer,0
+C0177,"React,Bootstrap,HTML,JavaScript,TypeScript,CSS",6,10,2,Frontend Developer,1
+C0178,"SQL,Power BI,Python,Statistics",6,9,5,Data Analyst,1
+C0179,"Python,Machine Learning,Deep Learning,Pandas",8,10,4,ML Engineer,1
+C0180,"Spring,Hibernate,Java,Microservices",8,12,5,Java Developer,1
+C0181,"JavaScript,React,Photoshop,Git",3,0,0,Frontend Developer,0
+C0182,"Photoshop,Manual Testing",1,2,1,DevOps Engineer,0
+C0183,"Git,Networking,Photoshop,Python",0,1,0,Data Analyst,0
+C0184,"Pandas,Machine Learning,Python,Deep Learning,NumPy,TensorFlow",5,12,2,ML Engineer,1
+C0185,"AWS,Linux,Kubernetes,Jenkins,Docker,Terraform",4,12,4,DevOps Engineer,1
+C0186,"React,JavaScript,CSS,Bootstrap,HTML,TypeScript",4,7,5,Frontend Developer,1
+C0187,"Manual Testing,TensorFlow,Excel,Photoshop",2,0,1,ML Engineer,0
+C0188,"Deep Learning,TensorFlow,Pandas,Python,Machine Learning",5,8,5,ML Engineer,1
+C0189,"Manual Testing,Java",2,1,0,Java Developer,0
+C0190,"Maven,Hibernate,Microservices,Java,SQL",7,10,4,Java Developer,1
+C0191,"C,TensorFlow,Networking",3,3,1,ML Engineer,0
+C0192,"Excel,Photoshop",2,2,1,DevOps Engineer,0
+C0193,"React,Git",1,2,1,Frontend Developer,0
+C0194,"Tableau,Excel,Python,Power BI,Statistics",7,7,3,Data Analyst,1
+C0195,"Docker,Jenkins,Linux,Kubernetes",1,2,1,DevOps Engineer,1
+C0196,"Pandas,Deep Learning,TensorFlow,Machine Learning,Python",6,11,3,ML Engineer,1
+C0197,"NumPy,Machine Learning,Pandas,Deep Learning,TensorFlow,Python",8,2,3,ML Engineer,1
+C0198,"Bootstrap,HTML,React,TypeScript,JavaScript",5,12,5,Frontend Developer,1
+C0199,"AWS,HTML",1,3,0,DevOps Engineer,0
+C0200,"C++,Word,C,HTML",2,3,0,ML Engineer,0
+C0201,"SQL,Microservices,Maven,Hibernate,Java",3,10,2,Java Developer,1
+C0202,"HTML,Git,Excel,Manual Testing",1,3,1,DevOps Engineer,0
+C0203,"Terraform,Kubernetes,Linux,AWS,Jenkins,Docker",5,5,3,DevOps Engineer,1
+C0204,"TypeScript,CSS,HTML,JavaScript,Bootstrap,React",5,3,5,Frontend Developer,1
+C0205,"Kubernetes,Docker,Terraform,AWS,Jenkins",2,7,4,DevOps Engineer,1
+C0206,"JavaScript,Bootstrap,HTML,CSS",5,4,1,Frontend Developer,1
+C0207,"Docker,AWS,Terraform,Kubernetes",4,2,1,DevOps Engineer,1
+C0208,"C++,Photoshop,C",1,3,1,Java Developer,0
+C0209,"Hibernate,Microservices,Java,Maven,SQL",1,4,4,Java Developer,1
+C0210,"Deep Learning,NumPy,TensorFlow,Machine Learning",5,2,1,ML Engineer,1
+C0211,"HTML,TypeScript,CSS,Bootstrap",8,4,5,Frontend Developer,1
+C0212,"Manual Testing,Photoshop",3,2,0,Java Developer,0
+C0213,"Tableau,SQL,Statistics,Excel,Power BI",7,10,3,Data Analyst,1
+C0214,"SQL,Statistics,Power BI,Tableau",4,2,3,Data Analyst,1
+C0215,"Manual Testing,Networking,C",2,2,0,Java Developer,0
+C0216,"Excel,SQL,Power BI,Statistics,Tableau",2,12,3,Data Analyst,1
+C0217,"JavaScript,CSS,TypeScript,Bootstrap",6,8,5,Frontend Developer,1
+C0218,"Spring,Microservices,Java,Hibernate,SQL,Maven",2,11,1,Java Developer,1
+C0219,"SQL,Tableau,Statistics,Python,Power BI,Excel",2,12,2,Data Analyst,1
+C0220,"Linux,AWS,Terraform,Jenkins,Docker,Kubernetes",1,10,4,DevOps Engineer,1
+C0221,"HTML,React,JavaScript,TypeScript,Bootstrap",1,8,3,Frontend Developer,1
+C0222,"Python,Power BI,Statistics,SQL",7,4,2,Data Analyst,1
+C0223,"Maven,Microservices,SQL,Java,Hibernate",6,3,2,Java Developer,1
+C0224,"Terraform,Docker,AWS,Linux",5,9,5,DevOps Engineer,1
+C0225,"Spring,Maven,Hibernate,Java",5,5,1,Java Developer,1
+C0226,"Tableau,Python,SQL,Statistics,Excel",2,11,1,Data Analyst,1
+C0227,"Java,Spring,Microservices,SQL,Hibernate,Maven",4,2,2,Java Developer,1
+C0228,"Terraform,Jenkins,Kubernetes,Linux",6,5,3,DevOps Engineer,1
+C0229,"TensorFlow,Deep Learning,Machine Learning,NumPy,Python,Pandas",7,10,4,ML Engineer,1
+C0230,"Statistics,Power BI,Excel,Tableau,SQL,Python",3,6,4,Data Analyst,1
+C0231,"TensorFlow,NumPy,Machine Learning,Deep Learning,Python",8,2,5,ML Engineer,1
+C0232,"SQL,Spring,Maven,Java,Microservices,Hibernate",6,12,1,Java Developer,1
+C0233,"SQL,Spring,Java,Microservices",7,12,5,Java Developer,1
+C0234,"Word,AWS",1,3,0,DevOps Engineer,0
+C0235,"Word,JavaScript",0,3,0,Frontend Developer,0
+C0236,"Docker,Jenkins,Kubernetes,Terraform,Linux",8,10,3,DevOps Engineer,1
+C0237,"HTML,JavaScript,C++,React",2,1,1,Frontend Developer,0
+C0238,"JavaScript,TypeScript,React,Bootstrap,HTML,CSS",3,5,3,Frontend Developer,1
+C0239,"Deep Learning,Pandas,Machine Learning,TensorFlow",8,12,4,ML Engineer,1
+C0240,"Photoshop,Spring,Git",3,1,0,Java Developer,0
+C0241,"Docker,C",0,3,0,DevOps Engineer,0
+C0242,"C,Word",3,2,0,ML Engineer,0
+C0243,"Linux,Terraform,AWS,Jenkins,Docker,Kubernetes",1,10,3,DevOps Engineer,1
+C0244,"Jenkins,Linux,Docker,AWS",2,10,2,DevOps Engineer,1
+C0245,"Networking,Manual Testing,TensorFlow,Excel",0,2,1,ML Engineer,0
+C0246,"Spring,Hibernate,Java,SQL,Maven,Microservices",7,8,4,Java Developer,1
+C0247,"AWS,Docker,Terraform,Jenkins,Kubernetes,Linux",2,10,1,DevOps Engineer,1
+C0248,"Python,HTML,Networking,C",0,2,0,ML Engineer,0
+C0249,"Python,TensorFlow,Pandas,Machine Learning,Deep Learning",2,6,2,ML Engineer,1
+C0250,"Docker,Git,Manual Testing",3,1,0,DevOps Engineer,0
+C0251,"AWS,Terraform,Linux,Jenkins,Kubernetes",6,11,5,DevOps Engineer,1
+C0252,"AWS,Kubernetes,Linux,Docker,Terraform",6,10,4,DevOps Engineer,1
+C0253,"Spring,Excel,C++,Networking",1,0,0,Java Developer,0
+C0254,"JavaScript,Photoshop,Excel,Manual Testing",2,0,0,Frontend Developer,0
+C0255,"Excel,Statistics,Python,Power BI,Tableau",3,8,4,Data Analyst,1
+C0256,"AWS,Terraform,Jenkins,Docker,Linux",6,8,1,DevOps Engineer,1
+C0257,"TypeScript,Bootstrap,JavaScript,HTML",3,12,4,Frontend Developer,1
+C0258,"Networking,HTML,Photoshop",0,1,1,ML Engineer,0
+C0259,"React,HTML,Bootstrap,TypeScript,JavaScript",4,9,1,Frontend Developer,1
+C0260,"Manual Testing,Python,Excel",2,3,1,ML Engineer,0
+C0261,"SQL,Spring,Hibernate,Microservices,Java,Maven",6,4,4,Java Developer,1
+C0262,"JavaScript,HTML,Word,Manual Testing",3,2,1,Frontend Developer,0
+C0263,"Word,React,Git,Photoshop",0,3,0,Frontend Developer,0
+C0264,"Java,Maven,SQL,Microservices,Spring,Hibernate",5,12,2,Java Developer,1
+C0265,"Maven,SQL,Microservices,Hibernate",7,10,5,Java Developer,1
+C0266,"Microservices,SQL,Java,Maven,Hibernate",6,4,5,Java Developer,1
+C0267,"Statistics,Power BI,Excel,SQL,Python,Tableau",2,6,2,Data Analyst,1
+C0268,"Jenkins,Terraform,Docker,Linux,Kubernetes,AWS",8,12,5,DevOps Engineer,1
+C0269,"HTML,C++",2,3,0,DevOps Engineer,0
+C0270,"SQL,Excel,Tableau,Statistics,Power BI,Python",8,7,4,Data Analyst,1
+C0271,"Power BI,Excel,Python,SQL,Statistics,Tableau",1,7,1,Data Analyst,1
+C0272,"TensorFlow,Pandas,NumPy,Machine Learning,Python,Deep Learning",7,9,2,ML Engineer,1
+C0273,"Microservices,Maven,SQL,Java",4,9,5,Java Developer,1
+C0274,"Spring,Microservices,Hibernate,Maven,Java,SQL",3,7,3,Java Developer,1
+C0275,"NumPy,Deep Learning,Machine Learning,Pandas,TensorFlow",7,11,1,ML Engineer,1
+C0276,"Bootstrap,JavaScript,HTML,CSS,React",3,7,1,Frontend Developer,1
+C0277,"Manual Testing,Photoshop",3,3,0,ML Engineer,0
+C0278,"Linux,Jenkins,Docker,Kubernetes",3,9,3,DevOps Engineer,1
+C0279,"Python,C,Manual Testing",0,3,0,ML Engineer,0
+C0280,"Pandas,Deep Learning,NumPy,Machine Learning,TensorFlow,Python",8,9,2,ML Engineer,1
+C0281,"Excel,Python,Statistics,Tableau",5,4,4,Data Analyst,1
+C0282,"Jenkins,Terraform,AWS,Kubernetes,Linux",5,10,3,DevOps Engineer,1
+C0283,"Terraform,Linux,Docker,Jenkins",2,12,2,DevOps Engineer,1
+C0284,"CSS,HTML,Bootstrap,React",8,3,2,Frontend Developer,1
+C0285,"NumPy,Machine Learning,Deep Learning,Python,Pandas,TensorFlow",4,2,5,ML Engineer,1
+C0286,"Bootstrap,JavaScript,HTML,CSS,TypeScript,React",5,10,1,Frontend Developer,1
+C0287,"Python,Machine Learning,TensorFlow,Pandas,NumPy",4,4,3,ML Engineer,1
+C0288,"Deep Learning,NumPy,TensorFlow,Machine Learning,Pandas,Python",7,9,1,ML Engineer,1
+C0289,"Excel,Statistics,Power BI,SQL,Tableau,Python",2,9,3,Data Analyst,1
+C0290,"SQL,Power BI,Statistics,Tableau,Excel",6,6,3,Data Analyst,1
+C0291,"Linux,Kubernetes,AWS,Terraform,Jenkins,Docker",1,3,2,DevOps Engineer,1
+C0292,"Spring,Microservices,Hibernate,Java,SQL",2,12,3,Java Developer,1
+C0293,"JavaScript,Photoshop,C,Excel",2,1,1,Frontend Developer,0
+C0294,"SQL,Power BI,Python,Tableau",4,10,4,Data Analyst,1
+C0295,"C++,Excel,Photoshop",3,0,0,Data Analyst,0
+C0296,"C++,Manual Testing",2,2,0,Java Developer,0
+C0297,"Microservices,Spring,Java,Hibernate",1,11,2,Java Developer,1
+C0298,"Microservices,Spring,Maven,Hibernate",8,5,1,Java Developer,1
+C0299,"Python,Excel",2,3,1,Data Analyst,0
+C0300,"C++,Word,Git,Networking",0,2,0,ML Engineer,0
+C0301,"Terraform,Linux,Kubernetes,Jenkins",1,5,4,DevOps Engineer,1
+C0302,"Spring,Java,C++",0,2,1,Java Developer,0
+C0303,"Deep Learning,Machine Learning,TensorFlow,NumPy,Python,Pandas",2,2,3,ML Engineer,1
+C0304,"Excel,Git",2,3,1,ML Engineer,0
+C0305,"Git,Java,Photoshop,Networking",0,2,0,Java Developer,0
+C0306,"Jenkins,Kubernetes,Linux,Terraform",2,6,4,DevOps Engineer,1
+C0307,"Excel,C++",3,0,1,ML Engineer,0
+C0308,"Photoshop,C,TensorFlow,HTML",2,2,0,ML Engineer,0
+C0309,"C++,C,Manual Testing",3,2,0,Frontend Developer,0
+C0310,"TypeScript,React,CSS,JavaScript,HTML,Bootstrap",8,11,2,Frontend Developer,1
+C0311,"React,C++",1,0,0,Frontend Developer,0
+C0312,"Manual Testing,Excel,Photoshop",1,0,1,Data Analyst,0
+C0313,"Manual Testing,Networking,C++",2,0,0,ML Engineer,0
+C0314,"C,Excel,C++,HTML",2,2,1,ML Engineer,0
+C0315,"Excel,SQL,Statistics,Power BI",5,11,2,Data Analyst,1
+C0316,"Spring,SQL,Microservices,Java,Hibernate",7,2,2,Java Developer,1
+C0317,"C,Manual Testing,Docker,Excel",2,0,0,DevOps Engineer,0
+C0318,"Linux,AWS,Docker,Kubernetes,Terraform",2,2,2,DevOps Engineer,1
+C0319,"Linux,AWS,Jenkins,Kubernetes,Terraform",7,3,5,DevOps Engineer,1
+C0320,"Photoshop,Word,Networking,Git",2,3,1,DevOps Engineer,0
+C0321,"React,JavaScript,Bootstrap,HTML",2,4,1,Frontend Developer,1
+C0322,"Deep Learning,Python,Machine Learning,Pandas,TensorFlow",5,9,3,ML Engineer,1
+C0323,"Networking,Python,C,Word",2,1,0,Data Analyst,0
+C0324,"Pandas,Python,Machine Learning,TensorFlow,NumPy",1,8,4,ML Engineer,1
+C0325,"AWS,Linux,Terraform,Jenkins",2,2,1,DevOps Engineer,1
+C0326,"Manual Testing,C++,Networking",0,0,0,ML Engineer,0
+C0327,"TensorFlow,Python,Machine Learning,Pandas,Deep Learning",8,2,2,ML Engineer,1
+C0328,"Linux,Terraform,AWS,Docker,Kubernetes,Jenkins",6,5,2,DevOps Engineer,1
+C0329,"C,React",1,2,1,Frontend Developer,0
+C0330,"Java,Microservices,Hibernate,Spring,SQL",7,5,5,Java Developer,1
+C0331,"Python,Deep Learning,Machine Learning,TensorFlow,Pandas,NumPy",6,8,3,ML Engineer,1
+C0332,"Word,C,Networking,Python",3,2,0,ML Engineer,0
+C0333,"Word,Networking,Git,C",1,3,1,ML Engineer,0
+C0334,"Manual Testing,TensorFlow,C,Python",1,1,1,ML Engineer,0
+C0335,"C,C++,Docker",1,1,0,DevOps Engineer,0
+C0336,"Jenkins,Docker,Terraform,Linux,AWS",6,2,1,DevOps Engineer,1
+C0337,"Python,Pandas,Machine Learning,NumPy",6,12,4,ML Engineer,1
+C0338,"Manual Testing,Photoshop,AWS",3,3,1,DevOps Engineer,0
+C0339,"NumPy,Pandas,Machine Learning,Python,Deep Learning,TensorFlow",5,6,2,ML Engineer,1
+C0340,"Pandas,Deep Learning,Python,NumPy,TensorFlow,Machine Learning",2,9,2,ML Engineer,1
+C0341,"HTML,TypeScript,JavaScript,Bootstrap",2,12,3,Frontend Developer,1
+C0342,"Word,C++",2,2,0,Java Developer,0
+C0343,"Excel,Photoshop,SQL",3,3,1,Data Analyst,0
+C0344,"Jenkins,Docker,Terraform,Linux,AWS",1,6,1,DevOps Engineer,1
+C0345,"C++,Manual Testing",1,3,0,Frontend Developer,0
+C0346,"Excel,Tableau,Power BI,Statistics",1,8,2,Data Analyst,1
+C0347,"AWS,Terraform,Kubernetes,Jenkins",4,8,5,DevOps Engineer,1
+C0348,"Networking,Word,C++",0,3,1,DevOps Engineer,0
+C0349,"Excel,C++",2,3,0,ML Engineer,0
+C0350,"SQL,Networking",0,3,0,Data Analyst,0
+C0351,"CSS,HTML,React,Bootstrap,JavaScript",3,7,4,Frontend Developer,1
+C0352,"Networking,HTML",3,2,0,Frontend Developer,0
+C0353,"TypeScript,React,Bootstrap,HTML",6,10,4,Frontend Developer,1
+C0354,"Excel,Git",3,3,0,DevOps Engineer,0
+C0355,"C,Git,Java",1,0,1,Java Developer,0
+C0356,"TensorFlow,NumPy,Pandas,Python",7,3,4,ML Engineer,1
+C0357,"TensorFlow,Pandas,Machine Learning,NumPy,Python,Deep Learning",7,10,4,ML Engineer,1
+C0358,"Git,HTML,C",3,0,1,DevOps Engineer,0
+C0359,"Python,C++,TensorFlow,Git",2,2,1,ML Engineer,0
+C0360,"Bootstrap,TypeScript,CSS,React,HTML",5,8,2,Frontend Developer,1
+C0361,"Linux,AWS,Terraform,Docker,Jenkins,Kubernetes",8,6,3,DevOps Engineer,1
+C0362,"Networking,SQL,HTML",0,1,0,Data Analyst,0
+C0363,"HTML,TypeScript,CSS,Bootstrap,React",4,9,2,Frontend Developer,1
+C0364,"Hibernate,Java,Spring,SQL,Maven,Microservices",3,10,5,Java Developer,1
+C0365,"C,Word",0,3,0,Data Analyst,0
+C0366,"HTML,CSS,Bootstrap,TypeScript,React",1,5,3,Frontend Developer,1
+C0367,"Maven,SQL,Hibernate,Spring",3,6,1,Java Developer,1
+C0368,"Photoshop,React",1,1,0,Frontend Developer,0
+C0369,"Git,C,Python",3,1,0,ML Engineer,0
+C0370,"Kubernetes,Jenkins,Terraform,Linux",5,8,4,DevOps Engineer,1
+C0371,"CSS,HTML,TypeScript,Bootstrap",2,2,5,Frontend Developer,1
+C0372,"Bootstrap,HTML,TypeScript,CSS,React,JavaScript",2,7,3,Frontend Developer,1
+C0373,"TypeScript,HTML,JavaScript,React,Bootstrap",1,11,4,Frontend Developer,1
+C0374,"React,CSS,HTML,JavaScript,Bootstrap,TypeScript",7,2,5,Frontend Developer,1
+C0375,"Terraform,Docker,Linux,Kubernetes,Jenkins",5,4,5,DevOps Engineer,1
+C0376,"Photoshop,Networking,Git",1,2,0,ML Engineer,0
+C0377,"Machine Learning,Deep Learning,NumPy,TensorFlow,Pandas,Python",8,3,4,ML Engineer,1
+C0378,"Tableau,Statistics,Python,SQL,Power BI,Excel",7,10,3,Data Analyst,1
+C0379,"Photoshop,Word",2,3,1,Java Developer,0
+C0380,"Photoshop,C++,HTML,Manual Testing",1,2,0,ML Engineer,0
+C0381,"SQL,Tableau,Statistics,Power BI",2,4,5,Data Analyst,1
+C0382,"Maven,Microservices,SQL,Java,Hibernate",4,7,1,Java Developer,1
+C0383,"JavaScript,React,Bootstrap,HTML,CSS,TypeScript",6,6,2,Frontend Developer,1
+C0384,"Excel,SQL,Python,Power BI,Tableau,Statistics",8,10,5,Data Analyst,1
+C0385,"Photoshop,Manual Testing,HTML,AWS",1,1,1,DevOps Engineer,0
+C0386,"Photoshop,Word,C,SQL",0,2,0,Data Analyst,0
+C0387,"SQL,Microservices,Java,Hibernate,Maven",2,12,1,Java Developer,1
+C0388,"Power BI,Statistics,Python,Excel,SQL",8,4,2,Data Analyst,1
+C0389,"C++,Git,Networking,Photoshop",3,0,0,Data Analyst,0
+C0390,"HTML,Word",1,2,0,Frontend Developer,0
+C0391,"JavaScript,React,CSS,Bootstrap,TypeScript",6,5,1,Frontend Developer,1
+C0392,"Tableau,Power BI,SQL,Python",2,3,3,Data Analyst,1
+C0393,"Machine Learning,Deep Learning,Python,Pandas,NumPy",1,6,3,ML Engineer,1
+C0394,"React,TypeScript,Bootstrap,CSS",3,7,3,Frontend Developer,1
+C0395,"Microservices,Java,Hibernate,Spring,SQL",2,8,4,Java Developer,1
+C0396,"HTML,Excel,Photoshop",0,1,0,Java Developer,0
+C0397,"HTML,Python,TensorFlow,Photoshop",3,2,0,ML Engineer,0
+C0398,"Python,Deep Learning,Pandas,NumPy,Machine Learning",5,12,3,ML Engineer,1
+C0399,"Tableau,Statistics,SQL,Excel,Power BI,Python",7,12,2,Data Analyst,1
+C0400,"Spring,Excel,Photoshop,C",0,1,1,Java Developer,0
+C0401,"Maven,Hibernate,Spring,Microservices",5,2,5,Java Developer,1
+C0402,"Deep Learning,TensorFlow,Python,Pandas,Machine Learning",8,3,4,ML Engineer,1
+C0403,"Spring,C,C++",3,3,0,Java Developer,0
+C0404,"Jenkins,Terraform,Kubernetes,Linux",4,12,4,DevOps Engineer,1
+C0405,"JavaScript,CSS,HTML,Bootstrap",8,12,3,Frontend Developer,1
+C0406,"Word,C,Manual Testing,Git",2,2,0,Java Developer,0
+C0407,"SQL,Power BI,Python,Statistics,Tableau",4,3,4,Data Analyst,1
+C0408,"NumPy,Machine Learning,Python,TensorFlow",1,12,5,ML Engineer,1
+C0409,"Power BI,Tableau,SQL,Statistics,Python",1,10,4,Data Analyst,1
+C0410,"Docker,Jenkins,Terraform,Kubernetes,AWS,Linux",7,12,5,DevOps Engineer,1
+C0411,"Linux,Terraform,Docker,Jenkins,Kubernetes,AWS",5,9,2,DevOps Engineer,1
+C0412,"NumPy,Pandas,Machine Learning,Deep Learning,TensorFlow,Python",4,5,5,ML Engineer,1
+C0413,"JavaScript,TypeScript,HTML,CSS,React,Bootstrap",8,11,5,Frontend Developer,1
+C0414,"Hibernate,Maven,Java,Microservices,SQL,Spring",7,4,1,Java Developer,1
+C0415,"Networking,SQL",1,0,1,Data Analyst,0
+C0416,"Machine Learning,Deep Learning,Python,NumPy",4,12,5,ML Engineer,1
+C0417,"Networking,C,Excel,Git",3,2,0,Java Developer,0
+C0418,"Tableau,Power BI,SQL,Excel",6,11,5,Data Analyst,1
+C0419,"Word,Networking,HTML,Photoshop",0,1,0,DevOps Engineer,0
+C0420,"Excel,Networking",2,1,0,DevOps Engineer,0
+C0421,"Kubernetes,Linux,Docker,AWS",3,7,5,DevOps Engineer,1
+C0422,"Tableau,Excel,Power BI,Statistics,SQL,Python",6,10,2,Data Analyst,1
+C0423,"TensorFlow,Deep Learning,Pandas,Python,NumPy,Machine Learning",4,12,3,ML Engineer,1
+C0424,"Bootstrap,TypeScript,CSS,HTML",1,3,3,Frontend Developer,1
+C0425,"Java,Spring,Word,C",2,3,0,Java Developer,0
+C0426,"Networking,C,Git,Manual Testing",3,3,0,Java Developer,0
+C0427,"HTML,Bootstrap,React,CSS",3,10,5,Frontend Developer,1
+C0428,"Statistics,SQL,Power BI,Python",4,10,4,Data Analyst,1
+C0429,"Python,Power BI,Excel,Statistics",2,3,1,Data Analyst,1
+C0430,"Python,Pandas,TensorFlow,Deep Learning,Machine Learning,NumPy",8,12,4,ML Engineer,1
+C0431,"Spring,C++,Git",0,0,0,Java Developer,0
+C0432,"Python,Excel,Tableau,Power BI,Statistics,SQL",8,8,4,Data Analyst,1
+C0433,"SQL,Statistics,Power BI,Excel,Tableau,Python",5,12,3,Data Analyst,1
+C0434,"SQL,Python,Tableau,Power BI,Statistics,Excel",5,5,3,Data Analyst,1
+C0435,"Pandas,TensorFlow,NumPy,Python,Machine Learning,Deep Learning",4,3,2,ML Engineer,1
+C0436,"Linux,Jenkins,AWS,Docker,Terraform,Kubernetes",2,5,5,DevOps Engineer,1
+C0437,"Spring,Microservices,Java,SQL,Maven",4,7,4,Java Developer,1
+C0438,"Networking,Java,Photoshop,Manual Testing",2,3,0,Java Developer,0
+C0439,"SQL,Excel",2,2,0,Data Analyst,0
+C0440,"CSS,HTML,Bootstrap,JavaScript,React",3,12,5,Frontend Developer,1
+C0441,"Tableau,SQL,Excel,Power BI",2,3,1,Data Analyst,1
+C0442,"Jenkins,Linux,Docker,AWS,Terraform,Kubernetes",3,7,4,DevOps Engineer,1
+C0443,"NumPy,Machine Learning,TensorFlow,Deep Learning,Python,Pandas",6,10,1,ML Engineer,1
+C0444,"NumPy,TensorFlow,Pandas,Deep Learning,Python,Machine Learning",3,9,3,ML Engineer,1
+C0445,"Word,C++,Networking",2,1,0,Data Analyst,0
+C0446,"Deep Learning,NumPy,Pandas,Python,Machine Learning",6,3,5,ML Engineer,1
+C0447,"Bootstrap,TypeScript,JavaScript,CSS,HTML",6,11,1,Frontend Developer,1
+C0448,"Git,Excel",2,2,1,DevOps Engineer,0
+C0449,"SQL,Spring,Maven,Java",4,3,5,Java Developer,1
+C0450,"Photoshop,Manual Testing",0,1,1,Frontend Developer,0
+C0451,"TypeScript,CSS,Bootstrap,React,HTML",7,2,2,Frontend Developer,1
+C0452,"Photoshop,SQL,Git,C",1,0,0,Data Analyst,0
+C0453,"CSS,Bootstrap,React,HTML,JavaScript,TypeScript",4,9,5,Frontend Developer,1
+C0454,"Spring,Maven,Microservices,Hibernate",3,11,5,Java Developer,1
+C0455,"Manual Testing,HTML,C++,Word",3,3,0,Frontend Developer,0
+C0456,"Git,Excel,Photoshop,C++",1,3,0,Data Analyst,0
+C0457,"AWS,Linux,Docker,Kubernetes",1,12,4,DevOps Engineer,1
+C0458,"Terraform,Jenkins,Linux,AWS",8,8,3,DevOps Engineer,1
+C0459,"Jenkins,AWS,Linux,Terraform,Docker,Kubernetes",4,3,3,DevOps Engineer,1
+C0460,"Kubernetes,Docker,AWS,Terraform,Linux",2,10,1,DevOps Engineer,1
+C0461,"Hibernate,Maven,Microservices,Java,SQL,Spring",5,6,5,Java Developer,1
+C0462,"Hibernate,Maven,Spring,SQL,Microservices,Java",6,10,5,Java Developer,1
+C0463,"Java,Manual Testing,Excel",1,0,0,Java Developer,0
+C0464,"Java,Spring,Maven,SQL",1,4,4,Java Developer,1
+C0465,"Power BI,Tableau,Statistics,Python",2,6,2,Data Analyst,1
+C0466,"Excel,JavaScript",2,0,0,Frontend Developer,0
+C0467,"Microservices,SQL,Hibernate,Java",1,11,5,Java Developer,1
+C0468,"Docker,AWS,Kubernetes,Jenkins,Linux,Terraform",2,6,4,DevOps Engineer,1
+C0469,"Bootstrap,JavaScript,React,HTML,CSS",2,10,3,Frontend Developer,1
+C0470,"Kubernetes,Terraform,Docker,Jenkins,AWS",8,8,5,DevOps Engineer,1
+C0471,"Git,C++,SQL",0,2,1,Data Analyst,0
+C0472,"Tableau,Statistics,Excel,Power BI,SQL",7,11,4,Data Analyst,1
+C0473,"NumPy,Deep Learning,Python,TensorFlow,Pandas",5,3,4,ML Engineer,1
+C0474,"Machine Learning,Deep Learning,NumPy,Pandas",1,6,2,ML Engineer,1
+C0475,"Manual Testing,C++,Git,Photoshop",3,2,1,Frontend Developer,0
+C0476,"TensorFlow,NumPy,Deep Learning,Machine Learning,Python",4,5,3,ML Engineer,1
+C0477,"Python,Manual Testing",1,0,0,ML Engineer,0
+C0478,"Power BI,Tableau,Python,Excel,Statistics,SQL",6,11,3,Data Analyst,1
+C0479,"Hibernate,Maven,Spring,Microservices,SQL,Java",4,11,2,Java Developer,1
+C0480,"Power BI,Tableau,Python,Excel,SQL",7,12,2,Data Analyst,1
+C0481,"SQL,Maven,Hibernate,Microservices,Java,Spring",4,8,5,Java Developer,1
+C0482,"Networking,Photoshop,Git,SQL",1,2,1,Data Analyst,0
+C0483,"HTML,Excel",1,3,1,DevOps Engineer,0
+C0484,"CSS,JavaScript,Bootstrap,HTML,React",2,6,2,Frontend Developer,1
+C0485,"Docker,Terraform,Jenkins,Linux,AWS",3,8,4,DevOps Engineer,1
+C0486,"Pandas,NumPy,Machine Learning,TensorFlow,Deep Learning,Python",1,8,1,ML Engineer,1
+C0487,"HTML,C++,TensorFlow",2,2,1,ML Engineer,0
+C0488,"HTML,React,CSS,Bootstrap,JavaScript",4,11,5,Frontend Developer,1
+C0489,"Manual Testing,Docker,Git",3,3,0,DevOps Engineer,0
+C0490,"Microservices,Spring,SQL,Hibernate,Maven",7,12,5,Java Developer,1
+C0491,"AWS,Docker,Kubernetes,Terraform",6,7,3,DevOps Engineer,1
+C0492,"HTML,CSS,TypeScript,Bootstrap,JavaScript",7,4,2,Frontend Developer,1
+C0493,"SQL,Networking",0,1,0,Data Analyst,0
+C0494,"HTML,Git",0,0,1,Java Developer,0
+C0495,"AWS,Kubernetes,Docker,Terraform",7,6,2,DevOps Engineer,1
+C0496,"NumPy,TensorFlow,Pandas,Machine Learning,Python",1,2,3,ML Engineer,1
+C0497,"Bootstrap,HTML,CSS,React,TypeScript",8,12,5,Frontend Developer,1
+C0498,"SQL,Hibernate,Microservices,Spring,Java,Maven",8,6,3,Java Developer,1
+C0499,"C,Spring,Git",1,2,1,Java Developer,0
+C0500,"Maven,Microservices,Hibernate,Java,Spring,SQL",4,2,5,Java Developer,1
